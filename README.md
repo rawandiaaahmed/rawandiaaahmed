@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello there, I'm Rawan Diaa Ahmed
 
-<!--
-**rawandiaaahmed/rawandiaaahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Arab Open University (Graduating in 2025)  
+📱 Flutter Developer | Passionate about building useful mobile apps  
+🤖 Interested in AI, Machine Learning, and real-world problem solving  
+🌍 Based in Egypt
 
-Here are some ideas to get you started:
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- Flutter & Dart  
+- Firebase (Auth, Firestore, Storage)  
+- RESTful APIs  
+- State Management: Provider & BLoC  
+- clean Archecture MVVM
+
+---
+
+## 📫 Let's Connect!
+📧 Email: rdiaa4913@gmail.com  
+🌐 Portfolio: (Coming Soon)  
+💼 LinkedIn: [[linkedin.com/in/rawandiaaahmed](https://linkedin.com/in/rawandiaaahmed](https://www.linkedin.com/in/rawan-diaa-ba2018308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) *(if available)*
+
+---
+
+> “Code with purpose, design with passion.” 🔥
